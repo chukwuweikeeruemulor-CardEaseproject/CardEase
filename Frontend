@@ -1,0 +1,10 @@
+frontend/index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CardEase</title>
+</head>
+<body>
+  <h2>ATM Card Activation</h2>
+</body>
+</html>
